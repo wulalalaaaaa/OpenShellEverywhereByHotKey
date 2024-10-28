@@ -1,7 +1,7 @@
 How to use:
 
 download the exe or compile your own exe.
-put it at anyplace.(when directry is invalid,shell will cd the position of exe.)
+put it at anyplace.(when directory is invalid,shell will cd the position of exe.)
 click 2,run exe!
 now hotkey worked.
 
